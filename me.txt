@@ -1,0 +1,3 @@
+creating new file
+with 3 lines of text
+for learning git versions 
